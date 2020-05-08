@@ -1,0 +1,22 @@
+{
+  "name": "watchtracker",
+  "version": "1.0.0",
+  "description": "Go find deals on watches.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxtremaine/watchtracker.git"
+  },
+  "author": "Max Tremaine <me@maxtremaine.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/maxtremaine/watchtracker/issues"
+  },
+  "homepage": "https://github.com/maxtremaine/watchtracker#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
